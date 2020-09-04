@@ -6,6 +6,18 @@
     <description>Preview and search symbols from your libraries with ease.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.2</title>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>Testing the appcast. 0.1.2.</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate></pubDate>
+      <enclosure url="https://github.com/mikesizer/sketch-symbol-gallery/releases/download/v0.1.2/Sketch.Symbol.Gallery.v0.1.2.sketchplugin.zip" sparkle:version="0.1.2" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1</title>
       <description>
         <![CDATA[
