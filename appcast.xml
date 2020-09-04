@@ -2,9 +2,21 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Symbol Gallery</title>
-    <link></link>
+    <link>https://raw.githubusercontent.com/mikesizer/sketch-symbol-gallery/master/appcast.xml</link>
     <description>Preview and search symbols from your libraries with ease.</description>
     <language>en</language>
+    <item>
+      <title>Version 0.1.1</title>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>Testing the appcast. 0.1.1.</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate></pubDate>
+      <enclosure url="https://github.com/mikesizer/sketch-symbol-gallery/releases/download/v0.1.1/Sketch.Symbol.Gallery.v0.1.1.sketchplugin.zip" sparkle:version="0.1.1" type="application/octet-stream" />
+    </item>
     <item>
       <title>Version 0.1.0</title>
       <description>
